@@ -1,0 +1,96 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Final project </title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+      
+<link
+  <link href="https://fonts.googleapis.com/css?family=Reenie Beanie"rel="stylesheet">
+
+<div class="name">HAILEY DOMBROWSKI</div>
+<div id="finalssuck"></div>
+<img id="finals"
+
+     <div>
+    <img class = "lol"
+         src="https://thumbs.gfycat.com/DefensiveCheapHumpbackwhale-size_restricted.gif">
+    </div>
+<p>  Cynthia from rugrats best describes how I feel, unfashionable and bald. I would love if you looked at a nice BTS meme collection below?!?!</p>
+<div> 
+  <img class = "lmao"
+ src="https://thumbs.gfycat.com/ApprehensiveHorribleHorsemouse-max-1mb.gif">
+    
+     <br><br><br><br>
+<img id="bruv" 
+     src= "http://users.movellas.net/rescale/400/400/false/false/F9F9FA/?url=http://movellas-users.s3.amazonaws.com/movella/201708140625475541/images/IMG_0803.JPG" width=340>
+<img id="jimin"
+     src= "https://pm1.narvii.com/6467/93c5068a6e795ce930faa8bca0bb2335fb99fb61_hq.jpg" width=330>
+
+  <img id="namjoon"
+ src="https://pbs.twimg.com/profile_images/941113844478464000/DgElUWBJ_400x400.jpg" width=340>
+
+  <img id="suga"
+ src="https://i.pinimg.com/736x/4b/4c/f3/4b4cf349a5ae395bce4894dc1e741593.jpg" width=340>
+  <img id="jhoooooooooooooooooope"
+  src="https://i.pinimg.com/736x/9a/86/67/9a8667d747754f4720ac57564f5ee00d.jpg" width=340>
+  <img id="taehyung"
+ src="https://data.whicdn.com/images/317018039/large.jpg" width=340>
+  <img id="jin"
+ src="https://i.pinimg.com/236x/76/68/6a/76686a89e35382840bf04f9f95b08db7.jpg"
+width=340>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+body{
+  font-family :"Reenie Beanie", Sarif;
+  font-weight: 800;
+  font-size: 67px;
+  text-shadow: 3px 3px 3px #aaa;
+    }
+
+
+body { 
+  background: url(https://i.pinimg.com/originals/fc/51/5b/fc515b4216bb837e07ca16e6a662cdd6.gif) 
+    no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  color: lightyellow;var person = {
+  firstName:"Cynthia",
+  lastName:"who knows",
+  age:10,
+  eyeColor:"black"
+};
+}
+
+
+  
+ 
+
+
+
+
+</body>
+
+</html>
